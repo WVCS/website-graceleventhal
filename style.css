@@ -1,3 +1,16 @@
-body {
+h2 {
+  color: #861388; 
+  text-decoration: overline underline dotted 5px #2C666E ;
+  font-family: courier;
+}
 
+body {
+  background-color: #EEABC4;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px;
 }
