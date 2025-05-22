@@ -14,3 +14,25 @@ img {
   padding: 5px;
   width: 300px;
 }
+
+
+nav {
+  list-style-type: none;
+  width: 100vw;
+  background-color: #4ECDC4;
+  overflow: hidden;
+  position: fixed;
+    top: 0;
+  left: 0;
+}
+li a {
+  color: white;
+  text-decoration: none; 
+  display: block;
+  padding: 25px 250px;
+  float: left;
+}
+li a:hover {
+  background-color: #9DACFF;
+  color: #EFCFE3;
+}
